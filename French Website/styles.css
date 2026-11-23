@@ -1,0 +1,872 @@
+* {
+    box-sizing: border-box
+}
+
+html {
+    scroll-behavior: smooth
+}
+
+body {
+    margin: 0;
+    color: #172b45;
+    background: #fff;
+    font-family: 'Poppins', sans-serif;
+    font-size: 14px;
+    line-height: 1.75
+}
+
+a {
+    color: inherit;
+    text-decoration: none
+}
+
+.site-header {
+    height: 76px;
+    padding: 0 7%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #fff;
+    position: sticky;
+    top: 0;
+    z-index: 20;
+    box-shadow: 0 2px 18px #10233a0b
+}
+
+.brand {
+    font-family: 'Playfair Display', serif;
+    font-size: 23px;
+    letter-spacing: -.5px;
+    color: #172b45
+}
+
+.brand b {
+    font-weight: 700
+}
+
+.brand-mark {
+    color: #b84c4c
+}
+
+.nav {
+    display: flex;
+    gap: 32px;
+    align-items: center
+}
+
+.nav a {
+    font-size: 12px;
+    font-weight: 500;
+    color: #35445a
+}
+
+.nav a:hover,
+.text-link:hover {
+    color: #b84c4c
+}
+
+.menu-toggle {
+    display: none;
+    border: 0;
+    background: none;
+    font-size: 24px;
+    color: #172b45
+}
+
+.page {
+    display: none
+}
+
+.page.active {
+    display: block
+}
+
+.hero {
+    min-height: 620px;
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    padding: 80px 10%;
+    color: white
+}
+
+.home-hero {
+    background-image: url('https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=2000&q=90')
+}
+
+.hero-shade {
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(90deg, rgba(12, 29, 49, .78), rgba(12, 29, 49, .12))
+}
+
+.hero-content {
+    position: relative;
+    max-width: 590px
+}
+
+.eyebrow {
+    font-size: 10px;
+    letter-spacing: 2.5px;
+    font-weight: 600;
+    color: #b45151;
+    margin: 0 0 15px
+}
+
+.hero .eyebrow {
+    color: #f0c9b5
+}
+
+.hero h1,
+.page-banner h1 {
+    font: 600 clamp(43px, 6vw, 76px)/1.1 'Playfair Display', serif;
+    margin: 0 0 22px;
+    letter-spacing: -1.5px
+}
+
+.hero h1 em {
+    font-weight: 500
+}
+
+.hero-content>p:not(.eyebrow) {
+    font-size: 15px;
+    max-width: 450px;
+    color: #f3f3f3;
+    margin: 0 0 30px
+}
+
+.btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 22px;
+    padding: 13px 22px;
+    border: 0;
+    font: 500 12px 'Poppins';
+    cursor: pointer;
+    transition: .2s
+}
+
+.btn:hover {
+    transform: translateY(-2px)
+}
+
+.btn-light {
+    background: #fff;
+    color: #172b45
+}
+
+.btn-dark {
+    background: #172b45;
+    color: #fff
+}
+
+.btn span {
+    font-size: 18px
+}
+
+.hero-note {
+    position: absolute;
+    right: 7%;
+    bottom: 28px;
+    font-size: 10px;
+    letter-spacing: 1px;
+    color: #fff9
+}
+
+.section {
+    padding: 84px 8%
+}
+
+.intro-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 9%;
+    align-items: center
+}
+
+.section h2,
+.guide-form-wrap h2 {
+    font: 600 clamp(30px, 4vw, 44px)/1.2 'Playfair Display', serif;
+    margin: 0 0 17px;
+    color: #172b45
+}
+
+.lead {
+    font-size: 15px;
+    color: #657184;
+    line-height: 2
+}
+
+.soft {
+    background: #f7f5f0
+}
+
+.section-heading {
+    display: flex;
+    align-items: end;
+    justify-content: space-between;
+    margin-bottom: 35px
+}
+
+.section-heading h2 {
+    margin: 0
+}
+
+.text-link {
+    font-size: 12px;
+    font-weight: 600
+}
+
+.city-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 22px
+}
+
+.city-card {
+    background: white;
+    box-shadow: 0 8px 28px #172b4510;
+    overflow: hidden;
+    transition: .25s
+}
+
+.city-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 14px 34px #172b4520
+}
+
+.city-card img {
+    width: 100%;
+    height: 220px;
+    object-fit: cover;
+    display: block
+}
+
+.city-card-body {
+    padding: 20px 22px 24px
+}
+
+.city-card h3 {
+    font: 600 25px 'Playfair Display';
+    margin: 0 0 7px
+}
+
+.city-card p {
+    font-size: 12px;
+    color: #738092;
+    min-height: 44px;
+    margin: 0 0 13px
+}
+
+.text-link-red {
+    color: #ae4c4c;
+    font-size: 11px;
+    font-weight: 600
+}
+
+.split-feature {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 8%;
+    align-items: center
+}
+
+.feature-image {
+    min-height: 360px;
+    background-size: cover;
+    background-position: center
+}
+
+.split-feature p:not(.eyebrow) {
+    color: #697689;
+    max-width: 450px;
+    margin-bottom: 24px
+}
+
+.food-band {
+    text-align: center;
+    background: #172b45;
+    color: white;
+    padding: 72px 15%
+}
+
+.food-band h2 {
+    color: white
+}
+
+.food-band p:last-child {
+    color: #d5dce5;
+    max-width: 600px;
+    margin: 0 auto
+}
+
+.page-banner {
+    min-height: 350px;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    padding: 65px 9%;
+    position: relative;
+    color: white
+}
+
+.page-banner:before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(90deg, #11263ddd, #11263d55)
+}
+
+.page-banner>div {
+    position: relative
+}
+
+.page-banner h1 {
+    font-size: clamp(40px, 5vw, 62px);
+    margin-bottom: 12px
+}
+
+.page-banner p:not(.eyebrow) {
+    margin: 0;
+    color: #f0f1f2
+}
+
+.city-grid-large {
+    grid-template-columns: repeat(2, 1fr)
+}
+
+.city-grid-large .city-card img {
+    height: 280px
+}
+
+.guide-banner {
+    background-image: url('https://images.unsplash.com/photo-1569949381669-ecf31ae8e613?auto=format&fit=crop&w=1800&q=85')
+}
+
+.guide-section {
+    background: #f8f7f3
+}
+
+.guide-form-wrap {
+    display: grid;
+    grid-template-columns: .8fr 1.2fr;
+    gap: 8%;
+    align-items: start;
+    background: white;
+    padding: 38px;
+    box-shadow: 0 10px 35px #172b450c
+}
+
+.muted {
+    color: #788394
+}
+
+.guide-form {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 18px
+}
+
+.guide-form label,
+.contact-form label {
+    font-size: 11px;
+    font-weight: 600;
+    color: #36455a;
+    display: flex;
+    flex-direction: column;
+    gap: 7px
+}
+
+.guide-form select,
+.contact-form input,
+.contact-form textarea {
+    width: 100%;
+    padding: 12px 13px;
+    border: 1px solid #e0e3e7;
+    background: #fff;
+    color: #25364d;
+    font: 12px 'Poppins';
+    outline: none
+}
+
+.guide-form select:focus,
+.contact-form input:focus,
+.contact-form textarea:focus {
+    border-color: #b45151
+}
+
+.guide-form .full {
+    grid-column: 1/-1
+}
+
+.itinerary-output {
+    margin-top: 35px
+}
+
+.empty-state {
+    text-align: center;
+    background: white;
+    padding: 50px 20px;
+    color: #748092
+}
+
+.empty-state span {
+    font: 40px 'Playfair Display';
+    color: #b45151
+}
+
+.empty-state h3 {
+    font: 600 25px 'Playfair Display';
+    color: #172b45;
+    margin: 10px
+}
+
+.day-card {
+    background: white;
+    margin: 18px 0;
+    padding: 25px 28px;
+    box-shadow: 0 5px 22px #172b450c
+}
+
+.day-head {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    align-items: center;
+    border-bottom: 1px solid #eceef0;
+    padding-bottom: 14px;
+    margin-bottom: 18px
+}
+
+.day-head h3 {
+    font: 600 25px 'Playfair Display';
+    margin: 0
+}
+
+.day-head span {
+    font-size: 10px;
+    letter-spacing: 1px;
+    color: #a94e4e
+}
+
+.activity-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 14px
+}
+
+.activity {
+    background: #f8f7f3;
+    padding: 16px
+}
+
+.activity b {
+    display: block;
+    font-size: 10px;
+    letter-spacing: 1px;
+    color: #ad5151;
+    margin-bottom: 8px
+}
+
+.activity h4 {
+    font: 600 17px 'Playfair Display';
+    margin: 0 0 7px
+}
+
+.activity p {
+    font-size: 11px;
+    color: #718092;
+    margin: 0
+}
+
+.itinerary-actions {
+    display: flex;
+    gap: 12px;
+    justify-content: flex-end;
+    margin-top: 22px
+}
+
+.btn-outline {
+    border: 1px solid #172b45;
+    background: transparent;
+    color: #172b45
+}
+
+.about-banner {
+    background-image: url('https://images.unsplash.com/photo-1549144511-f099e773c147?auto=format&fit=crop&w=1800&q=85')
+}
+
+.narrow {
+    max-width: 850px;
+    margin: auto
+}
+
+.narrow>p:not(.eyebrow) {
+    color: #697689
+}
+
+.about-cities {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    margin-top: 30px
+}
+
+.about-cities span {
+    padding: 10px 18px;
+    background: #f4f1eb;
+    color: #172b45;
+    font: 600 16px 'Playfair Display'
+}
+
+.contact-banner {
+    background-image: url('https://images.unsplash.com/photo-1577093301391-7f2e1a0a8b5a?auto=format&fit=crop&w=1800&q=85')
+}
+
+.contact-layout {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10%
+}
+
+.contact-form {
+    display: grid;
+    gap: 15px
+}
+
+.small {
+    font-size: 11px
+}
+
+.footer {
+    background: #101f32;
+    color: #dce2e9;
+    padding: 48px 8% 18px
+}
+
+.footer-top {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1.5fr;
+    gap: 25px;
+    align-items: center;
+    padding-bottom: 35px
+}
+
+.brand-footer {
+    color: white
+}
+
+.footer-top p {
+    font-size: 11px;
+    color: #b5c0cc
+}
+
+.footer nav {
+    display: flex;
+    justify-content: flex-end;
+    gap: 18px;
+    flex-wrap: wrap
+}
+
+.footer nav a {
+    font-size: 10px;
+    color: #dce2e9
+}
+
+.footer-bottom {
+    border-top: 1px solid #ffffff20;
+    padding-top: 16px;
+    display: flex;
+    justify-content: space-between;
+    font-size: 9px;
+    color: #9eabba
+}
+
+.city-hero {
+    min-height: 410px;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: end;
+    padding: 55px 9%;
+    color: white;
+    position: relative
+}
+
+.city-hero:before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: linear-gradient(0deg, #10263de8, #10263d10)
+}
+
+.city-hero>div {
+    position: relative
+}
+
+.city-hero h1 {
+    font: 600 62px 'Playfair Display';
+    margin: 0
+}
+
+.city-hero p {
+    margin: 4px 0 0;
+    color: #f1f1f1
+}
+
+.city-content-section {
+    padding: 65px 8%
+}
+
+.city-content-section:nth-child(even) {
+    background: #f8f7f3
+}
+
+.city-content-section h2 {
+    font: 600 34px 'Playfair Display';
+    margin: 0 0 25px
+}
+
+.info-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 18px
+}
+
+.info-card {
+    background: white;
+    overflow: hidden;
+    box-shadow: 0 6px 22px #172b450c
+}
+
+.info-card img {
+    width: 100%;
+    height: 175px;
+    object-fit: cover
+}
+
+.info-card div {
+    padding: 16px
+}
+
+.info-card h3 {
+    font: 600 19px 'Playfair Display';
+    margin: 0 0 6px
+}
+
+.info-card p {
+    font-size: 11px;
+    color: #788394;
+    margin: 0
+}
+
+.sample-label {
+    font-size: 9px;
+    color: #a84c4c;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+    display: block
+}
+
+@media(max-width:800px) {
+    .site-header {
+        padding: 0 5%;
+        height: 68px
+    }
+
+    .menu-toggle {
+        display: block
+    }
+
+    .nav {
+        display: none;
+        position: absolute;
+        top: 68px;
+        left: 0;
+        right: 0;
+        background: white;
+        padding: 20px 7%;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 15px;
+        box-shadow: 0 10px 18px #10233a12
+    }
+
+    .nav.open {
+        display: flex
+    }
+
+    .hero {
+        min-height: 570px;
+        padding: 70px 7%
+    }
+
+    .section {
+        padding: 60px 6%
+    }
+
+    .intro-grid,
+    .split-feature,
+    .contact-layout,
+    .guide-form-wrap {
+        grid-template-columns: 1fr;
+        gap: 25px
+    }
+
+    .city-grid {
+        grid-template-columns: repeat(2, 1fr)
+    }
+
+    .city-grid-large {
+        grid-template-columns: 1fr 1fr
+    }
+
+    .guide-form-wrap {
+        padding: 25px
+    }
+
+    .footer-top {
+        grid-template-columns: 1fr;
+        gap: 10px
+    }
+
+    .footer nav {
+        justify-content: flex-start
+    }
+
+    .activity-grid {
+        grid-template-columns: 1fr
+    }
+
+    .info-grid {
+        grid-template-columns: repeat(2, 1fr)
+    }
+}
+
+@media(max-width:520px) {
+
+    .city-grid,
+    .city-grid-large,
+    .info-grid {
+        grid-template-columns: 1fr
+    }
+
+    .city-card img,
+    .city-grid-large .city-card img {
+        height: 220px
+    }
+
+    .hero h1 {
+        font-size: 48px
+    }
+
+    .page-banner {
+        min-height: 290px;
+        padding: 50px 7%
+    }
+
+    .page-banner h1 {
+        font-size: 42px
+    }
+
+    .guide-form {
+        grid-template-columns: 1fr
+    }
+
+    .guide-form .full {
+        grid-column: auto
+    }
+
+    .section-heading {
+        align-items: start;
+        flex-direction: column;
+        gap: 15px
+    }
+
+    .day-head {
+        align-items: start;
+        flex-direction: column
+    }
+
+    .itinerary-actions {
+        justify-content: flex-start;
+        flex-wrap: wrap
+    }
+
+    .footer-bottom {
+        flex-direction: column;
+        gap: 5px
+    }
+
+    .city-hero h1 {
+        font-size: 48px
+    }
+}
+
+.info-card img {
+    display: block;
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    background-color: #f5f5f5;
+}
+
+.info-card {
+    height: 100%
+}
+
+.itinerary-title {
+    margin: 0 0 20px
+}
+
+.itinerary-title h2 {
+    font: 600 34px 'Playfair Display';
+    margin: 0 0 6px;
+    color: #172b45
+}
+
+.city-content-section .muted {
+    max-width: 850px
+}
+
+.sample-label {
+    line-height: 1.7
+}
+
+@media print {
+
+    .site-header,
+    .footer,
+    .guide-form-wrap,
+    .itinerary-actions,
+    .page-banner {
+        display: none !important
+    }
+
+    .page {
+        display: none !important
+    }
+
+    #guide.page.active {
+        display: block !important
+    }
+
+    .guide-section {
+        padding: 0;
+        background: white
+    }
+
+    .day-card {
+        break-inside: avoid;
+        box-shadow: none;
+        border: 1px solid #ddd
+    }
+
+    .itinerary-output {
+        margin: 0
+    }
+}

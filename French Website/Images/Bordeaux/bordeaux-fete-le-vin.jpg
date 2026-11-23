@@ -1,0 +1,380 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<title>Bordeaux Fete Le Vin – 20th Birthday. | Wine Tour in France</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="Content-Language" content="en" />
+<meta http-equiv="imagetoolbar" content="false" />
+<meta http-equiv="last-modified" content="Thu, 12 Nov 2026 12:38:54 +0100" />
+<meta http-equiv="expires" content="Thu, 26 Nov 2026 12:38:54 +0100" />
+<meta name="revisit-after" content="2 weeks" />
+<meta http-equiv="pragma" content="no-cache" />
+<meta name="generator" content="Kareline" />
+<meta name="copyright" content="Wine Tour in france" />
+<meta name="author" content="Wine Tour in france" />
+<meta name="rating" content="general " />
+<meta name="description" content="During the 4 days, 2 km wine route between the river and the 18th century buildings. Pavilions featuring 80 appellations from Bordeaux and the Aquitaine region, as well as the great brands of Bordeaux." />
+<meta name="robots" content="index, follow, all" />
+<meta name="distribution" content="global" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<meta name="google-site-verification" content="qXLNq8tWr630uUxx1K52PYb_9KRYf-nQJvJFRhAYU0Q" />
+<meta name="strucr-confirm" content="9a4430e70a5f519d27d5f27be6ca48108dc777ab" />
+<meta name="msvalidate.01" content="E9B3C596CE30055BC02A530EA6EFB623" />
+<link rel="stylesheet" media="all" type="text/css" href="https://www.winetourinfrance.com/templates/common/styles/style.css" />
+<link rel="stylesheet" media="all" type="text/css" href="https://www.winetourinfrance.com/templates/common/styles/fancybox.css" />
+<link rel="stylesheet" media="all" type="text/css" href="https://www.winetourinfrance.com/templates/common/styles/fancyboxthumbs.css" />
+<link rel="stylesheet" media="all" type="text/css" href="https://www.winetourinfrance.com/templates/common/styles/isotope.css" />
+<link rel="stylesheet" media="only screen and (max-device-width: 768px), screen and (max-width: 999px)" type="text/css" href="https://www.winetourinfrance.com/templates/common/styles/style-999.css" />
+<link rel="stylesheet" media="screen and (max-width: 555px), screen and (max-device-width: 480px)" type="text/css" href="https://www.winetourinfrance.com/templates/common/styles/style-480.css" />
+<link rel="stylesheet" media="screen and (max-width: 320px)" type="text/css" href="https://www.winetourinfrance.com/templates/common/styles/style-320.css" />
+
+<script type="text/javascript" src="/scripts/jquery-1.8.3.min.js"></script>
+<script type="text/javascript" src="/scripts/jquery.fancybox.pack.js"></script>
+<script type="text/javascript" src="/scripts/jquery.fancybox-thumbs.js"></script>
+<script type="text/javascript" src="/scripts/responsiveslides.min.js"></script>
+<script type="text/javascript" src="/scripts/jquery.isotope.min.js"></script>
+<script type="text/javascript" src="/scripts/jquery.facebook_feed.js"></script>
+<script type="text/javascript" src="/scripts/cookieconsent/cookieconsent.min.js"></script>
+<script type="text/javascript" src="/scripts/jquery.pagination.js"></script>
+
+
+
+<!--[if IE 7]>
+<link rel="stylesheet" media="all" type="text/css" href="/templates/common/styles/iestyle.css" />
+<![endif]-->
+
+
+
+<script type="text/javascript">
+   	$(document).ready(function(){
+   		jQuery.fn.lbUrl = function() {
+   		  $(this).removeClass( 'jsMailTo' );
+          var testSplit = $(this).text().split('^');
+          var newHref  = testSplit[0] + '@' + testSplit[1] + '.' + testSplit[2];
+          $(this).text( newHref );
+          $(this).attr('title', newHref );
+          $(this).attr('href', 'mailto:' + newHref );
+        };
+        $("a.jsMailTo").each(function(){
+        	$(this).lbUrl();
+	    });
+   	});
+</script>
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-37157492-2', 'winetourinfrance.com');
+  ga('send', 'pageview');
+</script>
+
+<script type="text/javascript">
+    window.cookieconsent_options = {"message":"Cookies are used to ensure that our services function properly. By using these services, you accept our cookies.","dismiss":"I accept","learnMore":"More information","link":"/en/cookies.html","theme":'/scripts/cookieconsent/dark-bottom.css'};
+</script>
+
+</head>
+<body id="index" lang="en" class="noipad" >
+
+	<h1>Wine Tour In France</h1>
+	<div id="conteneur_top">
+		<div id="en_tete">
+			<div class="header_droite">
+				<ul id="menu_langues"><li id="swLngfr"><a href="/fr/accueil.html" title="Français"><img src="/templates/common/images/drapeaux/fr-off.gif" alt="fr" /></a></li>
+<li id="swLngen"><a class="on" href="/" title="English"><img src="/templates/common/images/drapeaux/en.gif" alt="en" /></a></li>
+<li id="swLngde"><a href="/de/german-destination-management-company-france-dmc-luxury-tours-wine-tours.html" title=""><img src="/templates/common/images/drapeaux/de-off.gif" alt="de" /></a></li>
+<li id="swLnges"><a href="/es/espanol-destination-management-company-france-dmc-luxury-tours-wine-tours.html" title=""><img src="/templates/common/images/drapeaux/es-off.gif" alt="es" /></a></li>
+<li id="swLngpo"><a href="/po/portuguese-destination-management-company-france-dmc-luxury-tours-wine-tours.html" title=""><img src="/templates/common/images/drapeaux/po-off.gif" alt="po" /></a></li>
+<li id="swLngru"><a href="/ru/russian-destination-management-company-france-dmc-luxury-tours-wine-tours.html" title=""><img src="/templates/common/images/drapeaux/ru-off.gif" alt="ru" /></a></li>
+<li id="swLngcn"><a href="/cn/chinese-destination-management-company-france-dmc-luxury-tours-wine-tours.html" title=""><img src="/templates/common/images/drapeaux/cn-off.gif" alt="cn" /></a></li>
+</ul><div class="cl"></div>
+				<div class="logo_reseaux_sociaux">
+					<a href="https://www.facebook.com/winetourinfrance" target="_blank" title=""><img alt="" src="/templates/common/images/facebook-bleu.png" /></a>
+					<a href="https://twitter.com/WineTourFrance" target="_blank" title=""><img alt="" src="/templates/common/images/twitter-bleu.png" /></a>
+				</div>
+				<div class="cl"></div>
+			</div>
+			<a id="logo" href="/en/home.html">
+				<img id="logo1" src="/templates/common/images/logo-fond-noir.png" alt="" />
+			</a>
+			<div class="cl"></div>
+		</div>
+	</div>
+
+	<div id="conteneur_menu"><div id="marge_menu">
+<ul class="mainMenu">
+	<li class="off 1 first"><a href="/en/experiences/wine.html" title="">Experiences & Tours</a>
+<ul class="1"><li class="centre separ"><img src="/templates/common/images/separ-ssmenu.png" alt="separation" /></li><li class="centre first"><a href="/en/experiences/wine.html" title="Wine">Wine</a></li><li class="centre separ"><img src="/templates/common/images/separ-ssmenu.png" alt="separation" /></li>
+<li class="centre"><a href="/en/experiences/gourmet.html" title="Gourmet">Gourmet</a></li><li class="centre separ"><img src="/templates/common/images/separ-ssmenu.png" alt="separation" /></li>
+<li class="centre"><a href="/en/experiences/culture.html" title="Culture">Culture</a></li><li class="centre separ"><img src="/templates/common/images/separ-ssmenu.png" alt="separation" /></li>
+</ul></li>
+	<li class="off 2"><a href="/en/corporate-travel/incentive-programs.html" title="">Corporate Travel</a>
+<ul class="2"><li class="centre separ"><img src="/templates/common/images/separ-ssmenu.png" alt="separation" /></li><li class="centre first"><a href="/en/corporate-travel/incentive-programs.html" title="Incentive travel">Incentive travel</a></li><li class="centre separ"><img src="/templates/common/images/separ-ssmenu.png" alt="separation" /></li>
+<li class="centre"><a href="/en/corporate-travel/meetings.html" title="Meetings">Meetings</a></li><li class="centre separ"><img src="/templates/common/images/separ-ssmenu.png" alt="separation" /></li>
+<li class="centre"><a href="/en/corporate-travel/corporate-events.html" title="Corporate events">Corporate events</a></li><li class="centre separ"><img src="/templates/common/images/separ-ssmenu.png" alt="separation" /></li>
+</ul></li>
+	<li class="off 3"><a href="/en/additional-services/shore-excursions.html" title="">Additional services</a>
+<ul class="3"><li class="centre separ"><img src="/templates/common/images/separ-ssmenu.png" alt="separation" /></li><li class="centre first"><a href="/en/additional-services/shore-excursions.html" title="Shore excursions">Shore excursions</a></li><li class="centre separ"><img src="/templates/common/images/separ-ssmenu.png" alt="separation" /></li>
+<li class="centre"><a href="/en/additional-services/special-occasions.html" title="Special occasions">Special occasions</a></li><li class="centre separ"><img src="/templates/common/images/separ-ssmenu.png" alt="separation" /></li>
+</ul></li>
+	<li class="off 4" id="noMargin"><a href="/en/regions.html" title=""><img id="img-region" src="/templates/common/images/regions-en.png" /></a>
+<ul class="4"><li class="centre separ"><img src="/templates/common/images/separ-ssmenu.png" alt="separation" /></li><li class="centre first"><a href="/en/regions/paris.html" title="Paris">Paris</a></li><li class="centre separ"><img src="/templates/common/images/separ-ssmenu.png" alt="separation" /></li>
+<li class="centre"><a href="/en/regions/bordeaux.html" title="Bordeaux">Bordeaux</a></li><li class="centre separ"><img src="/templates/common/images/separ-ssmenu.png" alt="separation" /></li>
+<li class="centre"><a href="/en/regions/loire.html" title="Loire Valley & Normandy">Loire Valley & Normandy</a></li><li class="centre separ"><img src="/templates/common/images/separ-ssmenu.png" alt="separation" /></li>
+<li class="centre"><a href="/en/regions/burgundy.html" title="Burgundy">Burgundy</a></li><li class="centre separ"><img src="/templates/common/images/separ-ssmenu.png" alt="separation" /></li>
+<li class="centre"><a href="/en/regions/champagne.html" title="Champagne">Champagne</a></li><li class="centre separ"><img src="/templates/common/images/separ-ssmenu.png" alt="separation" /></li>
+<li class="centre"><a href="/en/regions/rhone.html" title="Rhone Valley">Rhone Valley</a></li><li class="centre separ"><img src="/templates/common/images/separ-ssmenu.png" alt="separation" /></li>
+<li class="centre"><a href="/en/regions/provence-riviera.html" title="Provence & Riviera">Provence & Riviera</a></li><li class="centre separ"><img src="/templates/common/images/separ-ssmenu.png" alt="separation" /></li>
+<li class="centre"><a href="/en/regions/wine-tour-alsace.html" title="Alsace">Alsace</a></li><li class="centre separ"><img src="/templates/common/images/separ-ssmenu.png" alt="separation" /></li>
+</ul></li>
+	<li class="off 4"><a href="/en/regions.html" title="">Our Regions</a>
+<ul class="4"><li class="centre separ"><img src="/templates/common/images/separ-ssmenu.png" alt="separation" /></li><li class="centre first"><a href="/en/regions/paris.html" title="Paris">Paris</a></li><li class="centre separ"><img src="/templates/common/images/separ-ssmenu.png" alt="separation" /></li>
+<li class="centre"><a href="/en/regions/bordeaux.html" title="Bordeaux">Bordeaux</a></li><li class="centre separ"><img src="/templates/common/images/separ-ssmenu.png" alt="separation" /></li>
+<li class="centre"><a href="/en/regions/loire.html" title="Loire Valley & Normandy">Loire Valley & Normandy</a></li><li class="centre separ"><img src="/templates/common/images/separ-ssmenu.png" alt="separation" /></li>
+<li class="centre"><a href="/en/regions/burgundy.html" title="Burgundy">Burgundy</a></li><li class="centre separ"><img src="/templates/common/images/separ-ssmenu.png" alt="separation" /></li>
+<li class="centre"><a href="/en/regions/champagne.html" title="Champagne">Champagne</a></li><li class="centre separ"><img src="/templates/common/images/separ-ssmenu.png" alt="separation" /></li>
+<li class="centre"><a href="/en/regions/rhone.html" title="Rhone Valley">Rhone Valley</a></li><li class="centre separ"><img src="/templates/common/images/separ-ssmenu.png" alt="separation" /></li>
+<li class="centre"><a href="/en/regions/provence-riviera.html" title="Provence & Riviera">Provence & Riviera</a></li><li class="centre separ"><img src="/templates/common/images/separ-ssmenu.png" alt="separation" /></li>
+<li class="centre"><a href="/en/regions/wine-tour-alsace.html" title="Alsace">Alsace</a></li><li class="centre separ"><img src="/templates/common/images/separ-ssmenu.png" alt="separation" /></li>
+</ul></li>
+	<li class="off 5"><a href="/en/about-us/concept.html" title="">About Us</a>
+<ul class="5"><li class="centre separ"><img src="/templates/common/images/separ-ssmenu.png" alt="separation" /></li><li class="centre first"><a href="/en/about-us/concept.html" title="Concept">Concept</a></li><li class="centre separ"><img src="/templates/common/images/separ-ssmenu.png" alt="separation" /></li>
+<li class="centre"><a href="/en/about-us/team.html" title="Team">Team</a></li><li class="centre separ"><img src="/templates/common/images/separ-ssmenu.png" alt="separation" /></li>
+<li class="centre"><a href="/en/about-us/partners.html" title="Partners">Partners</a></li><li class="centre separ"><img src="/templates/common/images/separ-ssmenu.png" alt="separation" /></li>
+<li class="centre"><a href="/en/about-us/clients.html" title="Clients">Clients</a></li><li class="centre separ"><img src="/templates/common/images/separ-ssmenu.png" alt="separation" /></li>
+<li class="centre"><a href="/en/about-us/testimonials.html" title="Testimonials">Testimonials</a></li><li class="centre separ"><img src="/templates/common/images/separ-ssmenu.png" alt="separation" /></li>
+<li class="centre"><a href="/en/about-us/press.html" title="Press">Press</a></li><li class="centre separ"><img src="/templates/common/images/separ-ssmenu.png" alt="separation" /></li>
+</ul></li>
+	<li class="selected 6"><a href="/en/blog.html" title="">Blog</a>
+</li>
+	<li class="off 7"><a href="/en/contact.html" title="">Contact Us</a>
+</li>
+</ul>
+</div></div>
+
+	<div id="img-solo" style="height: 363px; background: #000000;"><img src="/medias/wtif1DoqjF7g/images/modules/bandeaux/chateau-du-clos-de-vougeot-vendanges.jpg" alt="" title="" />
+</div>
+
+	<div id="back_bandeaux"></div>
+	<div id="fleche">&nbsp;</div>
+
+	
+
+	<div class="conteneur contenu-blog" >
+		<div id="contenu">
+			<script language="Javascript">
+	function pageselectCallback(page_index, jq){
+		var blog_mea = jQuery('.global_blg .blogmea').length;
+		var items_per_page = 4;
+
+		if ($('#col_d').html() != null) var style=" style=\"width: 335px;\"";
+		else var style="";
+		
+		var max_elem = Math.min((page_index+1) * items_per_page, jQuery('.global_blg .1_blg').length);
+		var new_content = '';
+		var depart=0;
+		if (page_index > 0 && blog_mea == 1) depart = page_index*items_per_page+1;
+		else depart = page_index*items_per_page;
+
+		var is_gauche = true;
+		var mea = false;
+		
+		for(var i=depart;i<max_elem;i++)
+	    {
+	      var new_content2 = '';
+	      var new_content3 = '';
+	      var blog_mea = jQuery('.global_blg .1_blg:eq('+i+')').hasClass('blogmea');
+	      new_content2 = jQuery('.global_blg .1_blg:eq('+i+')').clone();
+
+	      if (blog_mea) {
+	    	  new_content3 = '<img src="/templates/common/images/actu_alaune.gif" style="float: left; position: absolute;" />'+'<div class="blogmea">' + new_content2.html() + '</div>';
+	    	  mea = true;
+	    	}
+	      else {
+	    	  new_content3 = '<div class="blog"'+style+'>' + new_content2.html() + '</div>';
+	    	  is_gauche = true;
+	    	}
+	    	if (new_content2.html() != null) new_content += new_content3;
+	    }
+		if (mea) {
+			var nbr = page_index*items_per_page+max_elem;
+			new_content2 = jQuery('.global_blg .1_blg:eq('+nbr+')').clone();
+			if (is_gauche) { new_content3 = '<div class="blog gauche"'+style+'>' + new_content2.html() + '</div>'; is_gauche = false; }
+		  else { new_content3 = '<div class="blog"'+style+'>' + new_content2.html() + '</div>'; is_gauche = true; }
+		  if (new_content2.html() != null) new_content += new_content3;
+		}
+	    $('#Searchresult').empty().append(new_content);
+	    return false;
+	}
+
+	/* Initialisation function for pagination */
+	function initPagination() {
+	    // count entries inside the hidden content
+	    var num_entries = jQuery('.global_blg .1_blg').length;
+	    var blog_mea = jQuery('.global_blg .blogmea').length;
+	    // Create content inside pagination element
+		$("#Pagination2").pagination(num_entries-blog_mea, {
+		    callback: pageselectCallback,
+		    items_per_page:4,
+		    prev_text: "<",
+		    next_text: ">"
+		});
+	    $("#Pagination2").trigger('setPage', [0]);
+	    if ( num_entries > 0 )
+	    {
+	    	$("#Pagination2").css({ display: 'block' });
+	    }
+	 }  
+	// When document is ready, initialize pagination
+	$(document).ready(function(){
+	    initPagination();
+	    if ($('.pagination').html() == '<span class="current prev">&lt;</span><span class="current">1</span><div class="cl"></div><span class="current prev2">&lt;</span><span class="current next">&gt;</span>') {
+	    	$('.pagination').css('display', 'none');
+	    }
+	});
+</script>
+
+<h2 class="centre">Wine News in France</h2><br /><br />
+<div class="two-third">	
+	<div class="detailsBlg">	
+	  <div class="blg">
+	  	
+	    <h3>Bordeaux Fete Le Vin – 20th Birthday.</h3>
+<div class='blog_detail'>
+
+<div align="center"><b>BORDEAUX FETE LE VIN - 20TH BIRTHDAY</b>
+  <br />
+</div>
+<br /><img alt="" height="338" width="625" border="0" align="middle" style="width: 625px; height: 338px;" src="/medias/wtif1DoqjF7g/images/Popup/123/Fete-du-vin.jpg" />
+<br />
+<br />
+<div align="center"><i><b>From June 14th to 18th 2018 will take place the now famous Bordeaux Wine Festival.
+    
+    
+    
+    
+    </b></i>
+  <br /><i><b>During the 4 days, 2 km wine route between the river and the 18th century buildings. Pavilions featuring 80 appellations from Bordeaux and the Aquitaine region, as well as the great brands of Bordeaux.</b></i>
+  <br />
+</div>
+<br />
+<br /><img alt="" height="183" width="125" border="0" align="right" style="width: 125px; height: 183px;" src="/medias/wtif1DoqjF7g/images/Popup/123/t%C3%A9l%C3%A9chargement.jpg" />Buy your “pass &amp; glass” a hop from one appellation to the other, meet the winemakers &amp; learn all you could ever imagine about the great wines of Bordeaux. 
+<br />
+<br />The festival will also host the arrival of the Tall Ships Regatta – these beautiful ships will leave Liverpool in the UK on May 25th for a triumphant arrival in Bordeaux during the wine festival. 
+<br />The opportunity to discover some of the most beautiful sailing ships. An event not to be missed.
+<br />
+<br />
+<br />Extend your stay in Bordeaux with a few days in the charming region of Cognac.
+<br />Whether you want to explore the World Famous names in the world of Cognac or the more confidential producers, let us know &amp; we will take you to explore this unknown yet fascinating universe.
+<br />
+<br />Check out our article about Cognac published in <b>NEW YORK TIMES: </b><a rel="" class="none" href="http://nyti.ms/2h4zp7A">http://nyti.ms/2h4zp7A</a>
+<br />
+<br />
+<br /></div><br /><br />
+<link rel="image_src" href="/medias/wtif1DoqjF7g/images/Popup/123/Fete-du-vin.jpg" />
+	    <div class="addthis_toolbox addthis_default_style addthis_32x32_style"><a class="addthis_button_twitter" rel="nofollow"></a><a class="addthis_button_facebook" rel="nofollow"></a><a class="addthis_button_linkedin" rel="nofollow"></a><a class="addthis_button_pinterest_share" rel="nofollow"></a><a class="addthis_button_google_plusone_share" rel="nofollow"></a><a class="addthis_button_compact" rel="nofollow"></a><a class="addthis_counter addthis_bubble_style" rel="nofollow"></a></div><br /><script type="text/javascript">var addthis_config = {"data_track_addressbar":false};</script><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-533e77475400a9fb"></script>
+	    <h3>0 Comments</h3>
+	    
+	    
+	    <div id='fblogcomm'><h3>Post a comment</h3><form action='#' method='post'>name *<br /><input type='text' name='fNomComm'  class='fNomComm'/><br />Add your comment *<br /><textarea name='fMessComm'></textarea><br /><strong>Security question * :</strong><br />What's the fifth letter of YBLLHF ?<input type='text' name='reponseCapcha' class='reponseCapcha' /><br />*Mandatory fields<br /><input class='btn-dore' type='submit' value='&gt Submit' /></form></div>
+		<div id="Searchresult"></div>
+		<div class="cl">&nbsp;</div>
+	    <br />
+		<div id="Pagination2"></div>
+		<div class="cl"></div>
+	  </div>
+	</div>
+</div>
+<div class="one-third last">
+	
+<div><h3>Newsletter</h3>
+  <div>
+    <div><img border="0" alt="" src="/medias/wtif1DoqjF7g/images/img1-blog-en.jpg" />
+      <br />
+      <br />
+    </div>
+  </div>
+</div>
+
+<form method="post" name="fInscNwslt" id="fInscNwslt" class="fInscNwslt" action="#">
+	
+	<div class="formCompact__duo">
+		e-mail <input type="text" name="mailNwslt" />
+		<a href="#" onclick="document.fInscNwslt.submit(); return false;" class="btn-dore">Subscribe</a>
+	</div>
+	<input type="hidden" name="dmdEvents" value="dmdInfos#inscriptionNwslt" />
+</form>
+
+<br /><div class='blk-droite-blog'><h3>Filter by Category</h3><ul class='liste-droite-blog'><li><a href='/en/blog/wine-tours.html' title='Wine Tours'>Wine Tours</a></li><li><a href='/en/blog/fashion-tours.html' title='Fashion Tours'>Fashion Tours</a></li><li><a href='/en/blog/gourmet-tours.html' title='Gourmet Tours'>Gourmet Tours</a></li><li><a href='/en/blog/cultural-tours.html' title='Cultural Tours'>Cultural Tours</a></li></ul></div><br /><h3>Follow us on</h3><table width='100%'><tr><td><a href='https://twitter.com/WineTourFrance' target='_blank' rel='nofollow'><img src='/templates/common/images/icone-suivre-twitter.png' alt='' /></a></td><td><a href='https://www.facebook.com/winetourinfrance' target='_blank' rel='nofollow'><img src='/templates/common/images/icone-suivre-facebook.png' alt='' /></a></td><td><a href='https://www.linkedin.com/company/wine-tour-in-france' target='_blank' rel='nofollow'><img src='/templates/common/images/icone-suivre-linkedin.png' alt='' /></a></td><td><a href='#' target='_blank' rel='nofollow'><img src='/templates/common/images/icone-suivre-pinterest.png' alt='' /></a></td><td><a href='#' target='_blank' rel='nofollow'><img src='/templates/common/images/icone-suivre-google-plus.png' alt='' /></a></td><td><a href='#' target='_blank' rel='nofollow'><img src='/templates/common/images/icone-suivre-hibou.png' alt='' /></a></td></tr></table><br /><div class='blk-droite-blog'><h3>Recent posts</h3><ul class='liste-droite-blog'><li><a href='/en/blog/wine-tours/a-weekend-with-the-grands-crus-of-bordeaux-june-2018.html' title=''></a></li>
+<li><a href='/en/blog/wine-tours/france-s-favorite-town-is-kaysersberg.html' title=''></a></li>
+<li><a href='/en/blog/wine-tours/bordeaux-fete-le-vin-ndash-20th-birthday.html' title=''></a></li>
+<li><a href='/en/blog/wine-tours/launch-of-wine-paths.html' title=''></a></li>
+<li><a href='/en/blog/gourmet-tours/celebrate-the-black-truffle-in-provence-in-january.html' title=''></a></li>
+</ul></div>
+<br />
+<br /><h3><a rel="" class="none" href="/en/contact.html"><img border="0" alt="" src="/medias/wtif1DoqjF7g/images/img2-blog-en.jpg" /></a>
+  <br /></h3>
+	<br /><br />
+</div>
+<br />
+<br />
+			<div class="cl"></div>
+		</div>
+		<div class="cl"></div>
+	</div>
+
+	<div id="conteneur_bottom">
+		<div id="bas">
+			<div class="separ_bottom" id="case1">
+				<span class="titrebas">COMPANY DEFINITION</span><br /><br />
+				<div id="twitters">
+<!-- 					Wine Tour in France is a specialist agency offering personalized luxury tours to discover France’s famously elegant Art de Vivre. We are also a leading DMC organizing and coordinating unforgettable experiences. -->
+					<img src="/templates/common/images/presentation-footer-en.png" alt="" />
+				</div>
+			</div>
+			<div class="separ_bottom left30" id="case3">
+				<span class="titrebas">DON'T MISS</span><br /><br />
+				<div id="menuInFooter"><a href="/en/regions.html" title="Our Regions" >Our Regions</a>
+<a href="/en/corporate-travel/incentive-programs/incentive-travel.html" title="Our Services" >Our Services</a>
+<a href="/en/about-us/clients.html" title="Our Clients" >Our Clients</a>
+<a href="/en/about-us/team.html" title="Our Team" >Our Team</a></div>
+			</div>
+			<div class="left30" id="case4">
+				<span class="titrebas">LET US HELP !</span><br />
+				Head Office<br />
+				49, rue Camille Godard<br />
+				33000 Bordeaux<br />
+				Tél. +33 (0)5 56 44 27 68<br />
+				<a class="jsMailTo">contact^winetourinfrance^com</a>
+			</div>
+			<div id="case5">
+				<div id="citation_bottom">There's no such thing as gastronomic culture without wine.<br /><br /><span class="t11">Julia Child</span></div>
+			</div>
+		</div>
+		<div id="menuFooter" class="centre"><a href="/en/sitemap.html" title="Site map" >Site map</a>
+- <a href="/en/legal.html" title="Legal & Publishing info" >Legal & Publishing info</a>
+- <a href="/en/credits.html" title="Credits" >Credits</a>
+- <a href="/en/privacy-policy.html" title="Privacy policy" >Privacy policy</a>
+- <a href="/en/cookies.html" title="Cookies" >Cookies</a></div>
+	</div>
+
+	<script type="text/javascript" src="/scripts/script.footer.js"></script>
+	<script type="text/javascript">
+	/* <![CDATA[ */
+	var google_conversion_id = 878670086;
+	var google_custom_params = window.google_tag_params;
+	var google_remarketing_only = true;
+	/* ]]> */
+	</script>
+	<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+	</script>
+	<noscript>
+	<div style="display:inline;">
+	<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/878670086/?value=0&amp;guid=ON&amp;script=0"/>
+	</div>
+	</noscript>
+</body>
+</html>
